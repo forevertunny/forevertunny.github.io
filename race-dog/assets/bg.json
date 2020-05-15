@@ -1,0 +1,12 @@
+[
+  {
+    "key": "default",
+    "racebg": "BG",
+    "goal":"goal",
+    "fence":{
+      "open":["start_upper_open00","start_upper_open01"],
+      "upper":"start_upper_standby",
+      "bottom":"start_bottom"
+    }
+  }
+]

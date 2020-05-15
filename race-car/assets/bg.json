@@ -1,0 +1,58 @@
+[
+  {
+    "key": "default",
+    "racebg": "BG_default_part1",
+    "streetbg": "BG_default_part2"
+  },
+  {
+    "key": "barcelona",
+    "racebg": "BG_track1_part1",
+    "streetbg": "BG_track1_part2"
+  },
+  {
+    "key": "singapore",
+    "racebg": "BG_track2_part1",
+    "streetbg": "BG_track2_part2"
+  },
+  {
+    "key": "dubai",
+    "racebg": "BG_track3_part1",
+    "streetbg": "BG_track3_part2"
+  },
+  {
+    "key": "sydney",
+    "racebg": "BG_track4_part1",
+    "streetbg": "BG_track4_part2"
+  },
+  {
+    "key": "london",
+    "racebg": "BG_track5_part1",
+    "streetbg": "BG_track5_part2"
+  },
+  {
+    "key": "newyork",
+    "racebg": "BG_track6_part1",
+    "streetbg": "BG_track6_part2"
+  },
+  {
+    "key": "kualalumpur",
+    "racebg": "BG_track7_part1",
+    "streetbg": "BG_track7_part2"
+  },
+  {
+    "key": "tokyo",
+    "racebg": "BG_track9_part1",
+    "streetbg": "BG_track9_part2"
+  },
+  {
+    "key": "paris",
+    "racebg": "BG_track10_part1",
+    "streetbg": "BG_track10_part2"
+  },
+  {
+    "key": "egypt",
+    "racebg": "BG_track11_part1",
+    "streetbg": "BG_track11_part2"
+  }
+  
+]

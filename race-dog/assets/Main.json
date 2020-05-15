@@ -1,0 +1,135 @@
+{
+"frames": {
+	"BG_CM_board_upper.png": {
+		"frame": {"x":0, "y":235, "w":190, "h":8},
+		"spriteSourceSize": {"x":0,"y":0,"w":190,"h":8},
+		"sourceSize": {"w":190,"h":8}
+	},
+	"Drabbit_run00.png": {
+		"frame": {"x":248, "y":81, "w":58, "h":95},
+		"spriteSourceSize": {"x":6,"y":0,"w":70,"h":95},
+		"sourceSize": {"w":70,"h":95}
+	},
+	"Drabbit_run01.png": {
+		"frame": {"x":309, "y":81, "w":55, "h":94},
+		"spriteSourceSize": {"x":0,"y":0,"w":70,"h":95},
+		"sourceSize": {"w":70,"h":95}
+	},
+	"Drabbit_run02.png": {
+		"frame": {"x":368, "y":542, "w":58, "h":95},
+		"spriteSourceSize": {"x":6,"y":0,"w":70,"h":95},
+		"sourceSize": {"w":70,"h":95}
+	},
+	"Drabbit_run03.png": {
+		"frame": {"x":429, "y":542, "w":57, "h":95},
+		"spriteSourceSize": {"x":13,"y":0,"w":70,"h":95},
+		"sourceSize": {"w":70,"h":95}
+	},
+	"NO_01.png": {
+		"frame": {"x":438, "y":0, "w":44, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+		"sourceSize": {"w":44,"h":44}
+	},
+	"NO_02.png": {
+		"frame": {"x":509, "y":636, "w":44, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+		"sourceSize": {"w":44,"h":44}
+	},
+	"NO_03.png": {
+		"frame": {"x":489, "y":542, "w":44, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+		"sourceSize": {"w":44,"h":44}
+	},
+	"NO_04.png": {
+		"frame": {"x":415, "y":640, "w":44, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+		"sourceSize": {"w":44,"h":44}
+	},
+	"NO_05.png": {
+		"frame": {"x":513, "y":473, "w":44, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+		"sourceSize": {"w":44,"h":44}
+	},
+	"NO_06.png": {
+		"frame": {"x":368, "y":640, "w":44, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+		"sourceSize": {"w":44,"h":44}
+	},
+	"NO_07.png": {
+		"frame": {"x":513, "y":426, "w":44, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+		"sourceSize": {"w":44,"h":44}
+	},
+	"NO_08.png": {
+		"frame": {"x":489, "y":589, "w":44, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+		"sourceSize": {"w":44,"h":44}
+	},
+	"NO_09.png": {
+		"frame": {"x":391, "y":0, "w":44, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+		"sourceSize": {"w":44,"h":44}
+	},
+	"NO_10.png": {
+		"frame": {"x":462, "y":640, "w":44, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+		"sourceSize": {"w":44,"h":44}
+	},
+	"close_btn.png": {
+		"frame": {"x":536, "y":520, "w":40, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+		"sourceSize": {"w":40,"h":40}
+	},
+	"goal.png": {
+		"frame": {"x":0, "y":81, "w":245, "h":151},
+		"spriteSourceSize": {"x":0,"y":0,"w":245,"h":151},
+		"sourceSize": {"w":245,"h":151}
+	},
+	"goal_line.png": {
+		"frame": {"x":182, "y":246, "w":5, "h":416},
+		"spriteSourceSize": {"x":0,"y":0,"w":5,"h":416},
+		"sourceSize": {"w":5,"h":416}
+	},
+	"sound_of.png": {
+		"frame": {"x":248, "y":179, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"sound_on.png": {
+		"frame": {"x":301, "y":179, "w":50, "h":50},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+		"sourceSize": {"w":50,"h":50}
+	},
+	"standby_count_plate.png": {
+		"frame": {"x":0, "y":0, "w":388, "h":78},
+		"spriteSourceSize": {"x":0,"y":0,"w":388,"h":78},
+		"sourceSize": {"w":388,"h":78}
+	},
+	"start_bottom.png": {
+		"frame": {"x":513, "y":0, "w":142, "h":423},
+		"spriteSourceSize": {"x":0,"y":35,"w":179,"h":458},
+		"sourceSize": {"w":179,"h":458}
+	},
+	"start_upper_open00.png": {
+		"frame": {"x":193, "y":235, "w":172, "h":453},
+		"spriteSourceSize": {"x":0,"y":5,"w":179,"h":458},
+		"sourceSize": {"w":179,"h":458}
+	},
+	"start_upper_open01.png": {
+		"frame": {"x":0, "y":246, "w":179, "h":443},
+		"spriteSourceSize": {"x":0,"y":15,"w":179,"h":458},
+		"sourceSize": {"w":179,"h":458}
+	},
+	"start_upper_standby.png": {
+		"frame": {"x":368, "y":81, "w":142, "h":458},
+		"spriteSourceSize": {"x":0,"y":0,"w":179,"h":458},
+		"sourceSize": {"w":179,"h":458}
+	}
+
+},
+"meta": {
+	"image": "Main.png",
+	"size": {"w": 658, "h": 692},
+	"scale": "1"
+}
+}

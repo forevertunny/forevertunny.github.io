@@ -1,0 +1,155 @@
+[
+  {
+    "key": "default",
+    "racebg": "BG_part1",
+    "streetbg": [
+      "BG_part2_act1"
+    ],
+    "goal":"goal",
+    "fence":{
+      "open":"start_bottom_open",
+      "upper":"start_upper",
+      "bottom":"start_bottom_standby"
+    }
+  },
+  {
+    "key": "hongkong",
+    "racebg": "BG_part1",
+    "streetbg": [
+      "BG_part2_act2",
+      "BG_part2_act1"
+    ],
+    "goal":"goal",
+    "fence":{
+      "open":"start_bottom_open",
+      "upper":"start_upper",
+      "bottom":"start_bottom_standby"
+    }
+  },
+  {
+    "key": "mongolia",
+    "racebg": "MONG_BG_part1",
+    "streetbg": [
+      "MONG_BG_part2_act2",
+      "MONG_BG_part2_act1"
+    ],
+    "goal":"MONG_goal",
+    "fence":{
+      "open":"MONG_start_bottom_open",
+      "upper":"MONG_start_upper",
+      "bottom":"MONG_start_bottom_standby"
+    }
+  },
+  {
+    "key": "denmark",
+    "racebg": "DEM_BG_part1",
+    "streetbg": [
+      "DEM_BG_part2_act2",
+      "DEM_BG_part2_act1"
+    ],
+    "goal":"DEM_goal",
+    "fence":{
+      "open":"DEM_start_bottom_open",
+      "upper":"DEM_start_upper",
+      "bottom":"DEM_start_bottom_standby"
+    }
+  },
+  {
+    "key": "california",
+    "racebg": "CAL_BG_part1",
+    "streetbg": [
+      "CAL_BG_part2_act2",
+      "CAL_BG_part2_act1"
+    ],
+    "goal":"CAL_goal",
+    "fence":{
+      "open":"CAL_start_bottom_open",
+      "upper":"CAL_start_upper",
+      "bottom":"CAL_start_bottom_standby"
+    }
+  },
+  {
+    "key": "japan",
+    "racebg": "JAP_BG_part1",
+    "streetbg": [
+      "JAP_BG_part2_act2",
+      "JAP_BG_part2_act1"
+    ],
+    "goal":"JAP_goal",
+    "fence":{
+      "open":"JAP_start_bottom_open",
+      "upper":"JAP_start_upper",
+      "bottom":"JAP_start_bottom_standby"
+    }
+  },
+  {
+    "key": "argentina",
+    "racebg": "ARG_BG_part1",
+    "streetbg": [
+      "ARG_BG_part2_act2",
+      "ARG_BG_part2_act1"
+    ],
+    "goal":"ARG_goal",
+    "fence":{
+      "open":"ARG_start_bottom_open",
+      "upper":"ARG_start_upper",
+      "bottom":"ARG_start_bottom_standby"
+    }
+  },
+  {
+    "key": "czech",
+    "racebg": "CZK_BG_part1",
+    "streetbg": [
+      "CZK_BG_part2_act2",
+      "CZK_BG_part2_act1"
+    ],
+    "goal":"CZK_goal",
+    "fence":{
+      "open":"CZK_start_bottom_open",
+      "upper":"CZK_start_upper",
+      "bottom":"CZK_start_bottom_standby"
+    }
+  },
+  {
+    "key": "macao",
+    "racebg": "MAC_BG_part1",
+    "streetbg": [
+      "MAC_BG_part2_act2",
+      "MAC_BG_part2_act1"
+    ],
+    "goal":"MAC_goal",
+    "fence":{
+      "open":"MAC_start_bottom_open",
+      "upper":"MAC_start_upper",
+      "bottom":"MAC_start_bottom_standby"
+    }
+  },
+  {
+    "key": "italy",
+    "racebg": "ITA_BG_part1",
+    "streetbg": [
+      "ITA_BG_part2_act2",
+      "ITA_BG_part2_act1"
+    ],
+    "goal":"ITA_goal",
+    "fence":{
+      "open":"ITA_start_bottom_open",
+      "upper":"ITA_start_upper",
+      "bottom":"ITA_start_bottom_standby"
+    }
+  },
+  {
+    "key": "russiz",
+    "racebg": "RUS_BG_part1",
+    "streetbg": [
+      "RUS_BG_part2_act2",
+      "RUS_BG_part2_act1"
+    ],
+    "goal":"RUS_goal",
+    "fence":{
+      "open":"RUS_start_bottom_open",
+      "upper":"RUS_start_upper",
+      "bottom":"RUS_start_bottom_standby"
+    }
+  }
+]

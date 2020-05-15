@@ -1,0 +1,247 @@
+{"frames": {
+
+"0.png":
+{
+	"frame": {"x":1348,"y":305,"w":118,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":128},
+	"sourceSize": {"w":118,"h":128}
+},
+"1.png":
+{
+	"frame": {"x":1399,"y":105,"w":88,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":88,"h":128},
+	"sourceSize": {"w":118,"h":128}
+},
+"2.png":
+{
+	"frame": {"x":1508,"y":1335,"w":113,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":113,"h":128},
+	"sourceSize": {"w":118,"h":128}
+},
+"3.png":
+{
+	"frame": {"x":1508,"y":1467,"w":113,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":113,"h":128},
+	"sourceSize": {"w":118,"h":128}
+},
+"4.png":
+{
+	"frame": {"x":857,"y":1491,"w":118,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":128},
+	"sourceSize": {"w":118,"h":128}
+},
+"5.png":
+{
+	"frame": {"x":1343,"y":1491,"w":116,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":116,"h":128},
+	"sourceSize": {"w":118,"h":128}
+},
+"6.png":
+{
+	"frame": {"x":1101,"y":1491,"w":117,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":128},
+	"sourceSize": {"w":118,"h":128}
+},
+"7.png":
+{
+	"frame": {"x":1509,"y":840,"w":108,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":108,"h":128},
+	"sourceSize": {"w":118,"h":128}
+},
+"8.png":
+{
+	"frame": {"x":979,"y":1491,"w":118,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":128},
+	"sourceSize": {"w":118,"h":128}
+},
+"9.png":
+{
+	"frame": {"x":1222,"y":1491,"w":117,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":117,"h":128},
+	"sourceSize": {"w":118,"h":128}
+},
+"_0000_logolight_04.jpg":
+{
+	"frame": {"x":856,"y":450,"w":649,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":649,"h":173},
+	"sourceSize": {"w":649,"h":173}
+},
+"_0001_logolight_05.jpg":
+{
+	"frame": {"x":856,"y":627,"w":649,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":649,"h":173},
+	"sourceSize": {"w":649,"h":173}
+},
+"_0002_logolight_06.jpg":
+{
+	"frame": {"x":856,"y":804,"w":649,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":649,"h":173},
+	"sourceSize": {"w":649,"h":173}
+},
+"_0003_logolight_07.jpg":
+{
+	"frame": {"x":319,"y":981,"w":649,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":649,"h":173},
+	"sourceSize": {"w":649,"h":173}
+},
+"_0004_logolight_08.jpg":
+{
+	"frame": {"x":972,"y":981,"w":649,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":649,"h":173},
+	"sourceSize": {"w":649,"h":173}
+},
+"_0005_logolight_09.jpg":
+{
+	"frame": {"x":319,"y":1158,"w":649,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":649,"h":173},
+	"sourceSize": {"w":649,"h":173}
+},
+"_0006_logolight_10.jpg":
+{
+	"frame": {"x":972,"y":1158,"w":649,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":649,"h":173},
+	"sourceSize": {"w":649,"h":173}
+},
+"_0007_logolight_11.jpg":
+{
+	"frame": {"x":204,"y":1335,"w":649,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":649,"h":173},
+	"sourceSize": {"w":649,"h":173}
+},
+"FAME.png":
+{
+	"frame": {"x":380,"y":105,"w":1015,"h":196},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":196},
+	"sourceSize": {"w":1015,"h":196}
+},
+"FAMElight.png":
+{
+	"frame": {"x":380,"y":450,"w":472,"h":447},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":472,"h":447},
+	"sourceSize": {"w":472,"h":447}
+},
+"LIGHTS_01.png":
+{
+	"frame": {"x":1509,"y":3,"w":111,"h":833},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":833},
+	"sourceSize": {"w":111,"h":833}
+},
+"LIGHTS_02.png":
+{
+	"frame": {"x":3,"y":934,"w":197,"h":614},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":197,"h":614},
+	"sourceSize": {"w":197,"h":614}
+},
+"LIGHTS_03.png":
+{
+	"frame": {"x":204,"y":934,"w":111,"h":348},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":348},
+	"sourceSize": {"w":111,"h":348}
+},
+"LIGHTS_04.png":
+{
+	"frame": {"x":3,"y":3,"w":373,"h":927},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":373,"h":927},
+	"sourceSize": {"w":373,"h":927}
+},
+"LOGO.png":
+{
+	"frame": {"x":857,"y":1335,"w":647,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":647,"h":152},
+	"sourceSize": {"w":647,"h":152}
+},
+"mask.png":
+{
+	"frame": {"x":380,"y":305,"w":964,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":964,"h":141},
+	"sourceSize": {"w":964,"h":141}
+},
+"sound_off.png":
+{
+	"frame": {"x":204,"y":1512,"w":86,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":86},
+	"sourceSize": {"w":86,"h":86}
+},
+"sound_on.png":
+{
+	"frame": {"x":294,"y":1512,"w":86,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":86},
+	"sourceSize": {"w":86,"h":86}
+},
+"top.png":
+{
+	"frame": {"x":380,"y":3,"w":1125,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1125,"h":98},
+	"sourceSize": {"w":1125,"h":98}
+}},
+"animations": {
+	"LIGHTS": ["LIGHTS_01.png","LIGHTS_02.png","LIGHTS_03.png","LIGHTS_04.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "main.png",
+	"format": "RGBA8888",
+	"size": {"w":1624,"h":1622},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5dc5a22dc1fdcea438f638bf21b9f159:f9f71a1714621025451dd1428e484b75:03f91ab73e0f4667800419161e658c40$"
+}
+}

@@ -1,0 +1,1010 @@
+{
+"frames": {
+	"horse01_idle000.png": {
+		"frame": {"x":1611, "y":525, "w":158, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_idle001.png": {
+		"frame": {"x":1611, "y":629, "w":158, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_idle002.png": {
+		"frame": {"x":392, "y":333, "w":178, "h":101},
+		"spriteSourceSize": {"x":0,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_idle003.png": {
+		"frame": {"x":1284, "y":1333, "w":163, "h":101},
+		"spriteSourceSize": {"x":15,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_idle004.png": {
+		"frame": {"x":1775, "y":732, "w":156, "h":101},
+		"spriteSourceSize": {"x":24,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_idle005.png": {
+		"frame": {"x":1774, "y":1580, "w":157, "h":102},
+		"spriteSourceSize": {"x":23,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_idle006.png": {
+		"frame": {"x":1116, "y":543, "w":164, "h":102},
+		"spriteSourceSize": {"x":16,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_idle007.png": {
+		"frame": {"x":1290, "y":749, "w":160, "h":102},
+		"spriteSourceSize": {"x":19,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_idle008.png": {
+		"frame": {"x":1611, "y":104, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_idle009.png": {
+		"frame": {"x":1611, "y":1272, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_run000.png": {
+		"frame": {"x":758, "y":548, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_run001.png": {
+		"frame": {"x":754, "y":326, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_run002.png": {
+		"frame": {"x":1112, "y":116, "w":172, "h":109},
+		"spriteSourceSize": {"x":9,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_run003.png": {
+		"frame": {"x":937, "y":0, "w":175, "h":113},
+		"spriteSourceSize": {"x":5,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_run004.png": {
+		"frame": {"x":937, "y":1771, "w":175, "h":113},
+		"spriteSourceSize": {"x":8,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_run005.png": {
+		"frame": {"x":199, "y":674, "w":189, "h":110},
+		"spriteSourceSize": {"x":0,"y":8,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_run006.png": {
+		"frame": {"x":197, "y":1120, "w":194, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_run007.png": {
+		"frame": {"x":0, "y":896, "w":196, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_run008.png": {
+		"frame": {"x":199, "y":336, "w":190, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse01_run009.png": {
+		"frame": {"x":391, "y":892, "w":183, "h":108},
+		"spriteSourceSize": {"x":1,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_idle000.png": {
+		"frame": {"x":1613, "y":1586, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_idle001.png": {
+		"frame": {"x":1291, "y":1122, "w":159, "h":102},
+		"spriteSourceSize": {"x":19,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_idle002.png": {
+		"frame": {"x":199, "y":1013, "w":178, "h":102},
+		"spriteSourceSize": {"x":0,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_idle003.png": {
+		"frame": {"x":1118, "y":1333, "w":163, "h":101},
+		"spriteSourceSize": {"x":15,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_idle004.png": {
+		"frame": {"x":1774, "y":838, "w":156, "h":101},
+		"spriteSourceSize": {"x":24,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_idle005.png": {
+		"frame": {"x":1774, "y":1789, "w":157, "h":102},
+		"spriteSourceSize": {"x":23,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_idle006.png": {
+		"frame": {"x":1116, "y":648, "w":164, "h":102},
+		"spriteSourceSize": {"x":16,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_idle007.png": {
+		"frame": {"x":1290, "y":0, "w":159, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_idle008.png": {
+		"frame": {"x":1613, "y":1691, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_idle009.png": {
+		"frame": {"x":1613, "y":1796, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_run000.png": {
+		"frame": {"x":582, "y":1329, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_run001.png": {
+		"frame": {"x":394, "y":1218, "w":178, "h":108},
+		"spriteSourceSize": {"x":4,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_run002.png": {
+		"frame": {"x":1115, "y":1771, "w":172, "h":109},
+		"spriteSourceSize": {"x":9,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_run003.png": {
+		"frame": {"x":940, "y":1539, "w":174, "h":113},
+		"spriteSourceSize": {"x":6,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_run004.png": {
+		"frame": {"x":938, "y":568, "w":175, "h":113},
+		"spriteSourceSize": {"x":8,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_run005.png": {
+		"frame": {"x":199, "y":900, "w":189, "h":110},
+		"spriteSourceSize": {"x":0,"y":8,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_run006.png": {
+		"frame": {"x":0, "y":1232, "w":194, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_run007.png": {
+		"frame": {"x":0, "y":560, "w":196, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_run008.png": {
+		"frame": {"x":197, "y":1344, "w":190, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse02_run009.png": {
+		"frame": {"x":391, "y":559, "w":183, "h":108},
+		"spriteSourceSize": {"x":1,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_idle000.png": {
+		"frame": {"x":1613, "y":1901, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_idle001.png": {
+		"frame": {"x":1613, "y":0, "w":158, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_idle002.png": {
+		"frame": {"x":576, "y":1909, "w":178, "h":102},
+		"spriteSourceSize": {"x":0,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_idle003.png": {
+		"frame": {"x":1279, "y":228, "w":163, "h":101},
+		"spriteSourceSize": {"x":15,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_idle004.png": {
+		"frame": {"x":1775, "y":1046, "w":156, "h":101},
+		"spriteSourceSize": {"x":24,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_idle005.png": {
+		"frame": {"x":1774, "y":1685, "w":157, "h":101},
+		"spriteSourceSize": {"x":23,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_idle006.png": {
+		"frame": {"x":759, "y":0, "w":164, "h":101},
+		"spriteSourceSize": {"x":16,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_idle007.png": {
+		"frame": {"x":1291, "y":1227, "w":159, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_idle008.png": {
+		"frame": {"x":1290, "y":1854, "w":159, "h":102},
+		"spriteSourceSize": {"x":19,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_idle009.png": {
+		"frame": {"x":1614, "y":1160, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_run000.png": {
+		"frame": {"x":757, "y":1884, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_run001.png": {
+		"frame": {"x":756, "y":1196, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_run002.png": {
+		"frame": {"x":941, "y":1229, "w":172, "h":109},
+		"spriteSourceSize": {"x":9,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_run003.png": {
+		"frame": {"x":938, "y":336, "w":175, "h":113},
+		"spriteSourceSize": {"x":5,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_run004.png": {
+		"frame": {"x":762, "y":1307, "w":176, "h":113},
+		"spriteSourceSize": {"x":7,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_run005.png": {
+		"frame": {"x":390, "y":1570, "w":189, "h":110},
+		"spriteSourceSize": {"x":0,"y":8,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_run006.png": {
+		"frame": {"x":0, "y":1680, "w":194, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_run007.png": {
+		"frame": {"x":0, "y":784, "w":196, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_run008.png": {
+		"frame": {"x":197, "y":1904, "w":190, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse03_run009.png": {
+		"frame": {"x":391, "y":670, "w":183, "h":108},
+		"spriteSourceSize": {"x":1,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_idle000.png": {
+		"frame": {"x":1614, "y":1055, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_idle001.png": {
+		"frame": {"x":1768, "y":209, "w":158, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_idle002.png": {
+		"frame": {"x":577, "y":444, "w":178, "h":101},
+		"spriteSourceSize": {"x":0,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_idle003.png": {
+		"frame": {"x":1283, "y":436, "w":163, "h":102},
+		"spriteSourceSize": {"x":15,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_idle004.png": {
+		"frame": {"x":1774, "y":942, "w":156, "h":101},
+		"spriteSourceSize": {"x":24,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_idle005.png": {
+		"frame": {"x":1772, "y":627, "w":157, "h":102},
+		"spriteSourceSize": {"x":23,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_idle006.png": {
+		"frame": {"x":1117, "y":1643, "w":164, "h":101},
+		"spriteSourceSize": {"x":16,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_idle007.png": {
+		"frame": {"x":1445, "y":217, "w":159, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_idle008.png": {
+		"frame": {"x":1772, "y":313, "w":158, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_idle009.png": {
+		"frame": {"x":1614, "y":733, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_run000.png": {
+		"frame": {"x":575, "y":1114, "w":178, "h":108},
+		"spriteSourceSize": {"x":4,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_run001.png": {
+		"frame": {"x":582, "y":1551, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_run002.png": {
+		"frame": {"x":1114, "y":997, "w":172, "h":109},
+		"spriteSourceSize": {"x":9,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_run003.png": {
+		"frame": {"x":936, "y":1113, "w":175, "h":113},
+		"spriteSourceSize": {"x":5,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_run004.png": {
+		"frame": {"x":934, "y":220, "w":175, "h":113},
+		"spriteSourceSize": {"x":8,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_run005.png": {
+		"frame": {"x":390, "y":1796, "w":189, "h":110},
+		"spriteSourceSize": {"x":0,"y":8,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_run006.png": {
+		"frame": {"x":0, "y":1120, "w":194, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_run007.png": {
+		"frame": {"x":0, "y":1008, "w":196, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_run008.png": {
+		"frame": {"x":197, "y":1568, "w":190, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse04_run009.png": {
+		"frame": {"x":391, "y":781, "w":183, "h":108},
+		"spriteSourceSize": {"x":1,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_idle000.png": {
+		"frame": {"x":1611, "y":1481, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_idle001.png": {
+		"frame": {"x":1611, "y":1377, "w":158, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_idle002.png": {
+		"frame": {"x":394, "y":1114, "w":178, "h":101},
+		"spriteSourceSize": {"x":0,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_idle003.png": {
+		"frame": {"x":1284, "y":1645, "w":162, "h":101},
+		"spriteSourceSize": {"x":16,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_idle004.png": {
+		"frame": {"x":1932, "y":417, "w":156, "h":101},
+		"spriteSourceSize": {"x":24,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_idle005.png": {
+		"frame": {"x":1772, "y":104, "w":157, "h":101},
+		"spriteSourceSize": {"x":23,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_idle006.png": {
+		"frame": {"x":1116, "y":333, "w":164, "h":102},
+		"spriteSourceSize": {"x":16,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_idle007.png": {
+		"frame": {"x":1449, "y":532, "w":159, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_idle008.png": {
+		"frame": {"x":1449, "y":636, "w":159, "h":102},
+		"spriteSourceSize": {"x":19,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_idle009.png": {
+		"frame": {"x":1613, "y":846, "w":158, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_run000.png": {
+		"frame": {"x":578, "y":215, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_run001.png": {
+		"frame": {"x":577, "y":869, "w":178, "h":108},
+		"spriteSourceSize": {"x":4,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_run002.png": {
+		"frame": {"x":1114, "y":1109, "w":172, "h":109},
+		"spriteSourceSize": {"x":9,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_run003.png": {
+		"frame": {"x":936, "y":997, "w":175, "h":113},
+		"spriteSourceSize": {"x":5,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_run004.png": {
+		"frame": {"x":762, "y":1423, "w":175, "h":113},
+		"spriteSourceSize": {"x":8,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_run005.png": {
+		"frame": {"x":390, "y":1457, "w":189, "h":110},
+		"spriteSourceSize": {"x":0,"y":8,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_run006.png": {
+		"frame": {"x":0, "y":1456, "w":194, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_run007.png": {
+		"frame": {"x":0, "y":336, "w":196, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_run008.png": {
+		"frame": {"x":197, "y":1456, "w":190, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse05_run009.png": {
+		"frame": {"x":391, "y":1003, "w":183, "h":108},
+		"spriteSourceSize": {"x":1,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_idle000.png": {
+		"frame": {"x":1450, "y":1435, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_idle001.png": {
+		"frame": {"x":1449, "y":1541, "w":159, "h":102},
+		"spriteSourceSize": {"x":19,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_idle002.png": {
+		"frame": {"x":577, "y":764, "w":178, "h":102},
+		"spriteSourceSize": {"x":0,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_idle003.png": {
+		"frame": {"x":1284, "y":1437, "w":163, "h":101},
+		"spriteSourceSize": {"x":15,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_idle004.png": {
+		"frame": {"x":1774, "y":0, "w":156, "h":101},
+		"spriteSourceSize": {"x":24,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_idle005.png": {
+		"frame": {"x":1772, "y":417, "w":157, "h":102},
+		"spriteSourceSize": {"x":23,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_idle006.png": {
+		"frame": {"x":1112, "y":228, "w":164, "h":102},
+		"spriteSourceSize": {"x":16,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_idle007.png": {
+		"frame": {"x":1289, "y":1017, "w":160, "h":102},
+		"spriteSourceSize": {"x":19,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_idle008.png": {
+		"frame": {"x":1453, "y":741, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_idle009.png": {
+		"frame": {"x":1452, "y":1750, "w":158, "h":103},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_run000.png": {
+		"frame": {"x":577, "y":653, "w":178, "h":108},
+		"spriteSourceSize": {"x":4,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_run001.png": {
+		"frame": {"x":578, "y":104, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_run002.png": {
+		"frame": {"x":762, "y":1771, "w":172, "h":109},
+		"spriteSourceSize": {"x":9,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_run003.png": {
+		"frame": {"x":938, "y":684, "w":175, "h":113},
+		"spriteSourceSize": {"x":5,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_run004.png": {
+		"frame": {"x":758, "y":104, "w":176, "h":113},
+		"spriteSourceSize": {"x":7,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_run005.png": {
+		"frame": {"x":199, "y":787, "w":189, "h":110},
+		"spriteSourceSize": {"x":0,"y":8,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_run006.png": {
+		"frame": {"x":0, "y":1568, "w":194, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_run007.png": {
+		"frame": {"x":0, "y":112, "w":196, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_run008.png": {
+		"frame": {"x":199, "y":224, "w":190, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse06_run009.png": {
+		"frame": {"x":392, "y":222, "w":183, "h":108},
+		"spriteSourceSize": {"x":1,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_idle000.png": {
+		"frame": {"x":1452, "y":1856, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_idle001.png": {
+		"frame": {"x":1450, "y":1331, "w":158, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_idle002.png": {
+		"frame": {"x":577, "y":548, "w":178, "h":102},
+		"spriteSourceSize": {"x":0,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_idle003.png": {
+		"frame": {"x":1283, "y":541, "w":163, "h":101},
+		"spriteSourceSize": {"x":15,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_idle004.png": {
+		"frame": {"x":1775, "y":1150, "w":156, "h":101},
+		"spriteSourceSize": {"x":24,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_idle005.png": {
+		"frame": {"x":1772, "y":522, "w":157, "h":102},
+		"spriteSourceSize": {"x":23,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_idle006.png": {
+		"frame": {"x":1117, "y":1539, "w":164, "h":101},
+		"spriteSourceSize": {"x":16,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_idle007.png": {
+		"frame": {"x":1287, "y":112, "w":160, "h":102},
+		"spriteSourceSize": {"x":19,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_idle008.png": {
+		"frame": {"x":1450, "y":105, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_idle009.png": {
+		"frame": {"x":1452, "y":0, "w":158, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_run000.png": {
+		"frame": {"x":582, "y":1773, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_run001.png": {
+		"frame": {"x":756, "y":1085, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_run002.png": {
+		"frame": {"x":1115, "y":1883, "w":172, "h":109},
+		"spriteSourceSize": {"x":9,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_run003.png": {
+		"frame": {"x":940, "y":1655, "w":174, "h":113},
+		"spriteSourceSize": {"x":6,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_run004.png": {
+		"frame": {"x":937, "y":1887, "w":175, "h":113},
+		"spriteSourceSize": {"x":8,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_run005.png": {
+		"frame": {"x":199, "y":448, "w":189, "h":110},
+		"spriteSourceSize": {"x":0,"y":8,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_run006.png": {
+		"frame": {"x":0, "y":1904, "w":194, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_run007.png": {
+		"frame": {"x":0, "y":224, "w":196, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_run008.png": {
+		"frame": {"x":199, "y":112, "w":190, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse07_run009.png": {
+		"frame": {"x":390, "y":1909, "w":183, "h":108},
+		"spriteSourceSize": {"x":1,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_idle000.png": {
+		"frame": {"x":1290, "y":1749, "w":159, "h":102},
+		"spriteSourceSize": {"x":19,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_idle001.png": {
+		"frame": {"x":1452, "y":1646, "w":158, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_idle002.png": {
+		"frame": {"x":577, "y":980, "w":178, "h":102},
+		"spriteSourceSize": {"x":0,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_idle003.png": {
+		"frame": {"x":1283, "y":645, "w":163, "h":101},
+		"spriteSourceSize": {"x":15,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_idle004.png": {
+		"frame": {"x":1929, "y":208, "w":157, "h":102},
+		"spriteSourceSize": {"x":23,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_idle005.png": {
+		"frame": {"x":1772, "y":1265, "w":157, "h":102},
+		"spriteSourceSize": {"x":23,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_idle006.png": {
+		"frame": {"x":1116, "y":438, "w":164, "h":102},
+		"spriteSourceSize": {"x":16,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_idle007.png": {
+		"frame": {"x":1289, "y":912, "w":160, "h":102},
+		"spriteSourceSize": {"x":19,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_idle008.png": {
+		"frame": {"x":1613, "y":950, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_idle009.png": {
+		"frame": {"x":1611, "y":315, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_run000.png": {
+		"frame": {"x":758, "y":770, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_run001.png": {
+		"frame": {"x":758, "y":659, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_run002.png": {
+		"frame": {"x":1115, "y":800, "w":172, "h":109},
+		"spriteSourceSize": {"x":9,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_run003.png": {
+		"frame": {"x":940, "y":1423, "w":175, "h":113},
+		"spriteSourceSize": {"x":5,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_run004.png": {
+		"frame": {"x":758, "y":881, "w":176, "h":113},
+		"spriteSourceSize": {"x":7,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_run005.png": {
+		"frame": {"x":199, "y":561, "w":189, "h":110},
+		"spriteSourceSize": {"x":0,"y":8,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_run006.png": {
+		"frame": {"x":197, "y":1232, "w":194, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_run007.png": {
+		"frame": {"x":0, "y":448, "w":196, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_run008.png": {
+		"frame": {"x":199, "y":0, "w":190, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse08_run009.png": {
+		"frame": {"x":391, "y":448, "w":183, "h":108},
+		"spriteSourceSize": {"x":1,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_idle000.png": {
+		"frame": {"x":1607, "y":210, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_idle001.png": {
+		"frame": {"x":1449, "y":427, "w":159, "h":102},
+		"spriteSourceSize": {"x":19,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_idle002.png": {
+		"frame": {"x":575, "y":1225, "w":178, "h":101},
+		"spriteSourceSize": {"x":0,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_idle003.png": {
+		"frame": {"x":1283, "y":332, "w":163, "h":101},
+		"spriteSourceSize": {"x":15,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_idle004.png": {
+		"frame": {"x":1774, "y":1894, "w":156, "h":101},
+		"spriteSourceSize": {"x":24,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_idle005.png": {
+		"frame": {"x":1772, "y":1475, "w":157, "h":102},
+		"spriteSourceSize": {"x":23,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_idle006.png": {
+		"frame": {"x":758, "y":220, "w":164, "h":102},
+		"spriteSourceSize": {"x":16,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_idle007.png": {
+		"frame": {"x":1449, "y":322, "w":159, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_idle008.png": {
+		"frame": {"x":1452, "y":1961, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_idle009.png": {
+		"frame": {"x":1452, "y":854, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_run000.png": {
+		"frame": {"x":573, "y":333, "w":178, "h":108},
+		"spriteSourceSize": {"x":4,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_run001.png": {
+		"frame": {"x":758, "y":437, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_run002.png": {
+		"frame": {"x":1115, "y":0, "w":172, "h":109},
+		"spriteSourceSize": {"x":9,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_run003.png": {
+		"frame": {"x":762, "y":1539, "w":175, "h":113},
+		"spriteSourceSize": {"x":5,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_run004.png": {
+		"frame": {"x":937, "y":881, "w":175, "h":113},
+		"spriteSourceSize": {"x":8,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_run005.png": {
+		"frame": {"x":390, "y":1344, "w":189, "h":110},
+		"spriteSourceSize": {"x":0,"y":8,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_run006.png": {
+		"frame": {"x":0, "y":1344, "w":194, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_run007.png": {
+		"frame": {"x":0, "y":0, "w":196, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_run008.png": {
+		"frame": {"x":197, "y":1680, "w":190, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse09_run009.png": {
+		"frame": {"x":392, "y":0, "w":183, "h":108},
+		"spriteSourceSize": {"x":1,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_idle000.png": {
+		"frame": {"x":1452, "y":959, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_idle001.png": {
+		"frame": {"x":1453, "y":1064, "w":158, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_idle002.png": {
+		"frame": {"x":578, "y":0, "w":178, "h":101},
+		"spriteSourceSize": {"x":0,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_idle003.png": {
+		"frame": {"x":1284, "y":1541, "w":162, "h":101},
+		"spriteSourceSize": {"x":16,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_idle004.png": {
+		"frame": {"x":1932, "y":104, "w":156, "h":101},
+		"spriteSourceSize": {"x":24,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_idle005.png": {
+		"frame": {"x":1772, "y":1370, "w":157, "h":102},
+		"spriteSourceSize": {"x":23,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_idle006.png": {
+		"frame": {"x":937, "y":116, "w":164, "h":101},
+		"spriteSourceSize": {"x":16,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_idle007.png": {
+		"frame": {"x":1290, "y":1959, "w":159, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_idle008.png": {
+		"frame": {"x":1453, "y":1168, "w":158, "h":101},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_idle009.png": {
+		"frame": {"x":1611, "y":420, "w":158, "h":102},
+		"spriteSourceSize": {"x":20,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_run000.png": {
+		"frame": {"x":582, "y":1662, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_run001.png": {
+		"frame": {"x":582, "y":1440, "w":177, "h":108},
+		"spriteSourceSize": {"x":5,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_run002.png": {
+		"frame": {"x":1116, "y":1221, "w":172, "h":109},
+		"spriteSourceSize": {"x":9,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_run003.png": {
+		"frame": {"x":938, "y":452, "w":175, "h":113},
+		"spriteSourceSize": {"x":5,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_run004.png": {
+		"frame": {"x":762, "y":1655, "w":175, "h":113},
+		"spriteSourceSize": {"x":8,"y":5,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_run005.png": {
+		"frame": {"x":390, "y":1683, "w":189, "h":110},
+		"spriteSourceSize": {"x":0,"y":8,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_run006.png": {
+		"frame": {"x":0, "y":1792, "w":194, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_run007.png": {
+		"frame": {"x":0, "y":672, "w":196, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_run008.png": {
+		"frame": {"x":197, "y":1792, "w":190, "h":109},
+		"spriteSourceSize": {"x":0,"y":9,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	},
+	"horse10_run009.png": {
+		"frame": {"x":392, "y":111, "w":183, "h":108},
+		"spriteSourceSize": {"x":1,"y":10,"w":198,"h":118},
+		"sourceSize": {"w":198,"h":118}
+	}
+
+},
+"meta": {
+	"image": "horse.png",
+	"size": {"w": 2091, "h": 2066},
+	"scale": "1"
+}
+}
