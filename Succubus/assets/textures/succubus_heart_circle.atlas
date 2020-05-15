@@ -1,0 +1,97 @@
+
+succubus_heart_circle.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haert
+  rotate: false
+  xy: 473, 478
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+purple/purple_01
+  rotate: false
+  xy: 111, 2
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+purple/purple_02
+  rotate: false
+  xy: 136, 180
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+purple/purple_03
+  rotate: false
+  xy: 2, 12
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+purple/purple_04
+  rotate: false
+  xy: 136, 389
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+purple/purple_05
+  rotate: false
+  xy: 136, 278
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+purple/purple_06
+  rotate: false
+  xy: 2, 371
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+yellow/yellow_01
+  rotate: false
+  xy: 191, 2
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+yellow/yellow_02
+  rotate: false
+  xy: 118, 82
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+yellow/yellow_03
+  rotate: false
+  xy: 364, 396
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+yellow/yellow_04
+  rotate: false
+  xy: 2, 121
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+yellow/yellow_05
+  rotate: false
+  xy: 252, 394
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+yellow/yellow_06
+  rotate: false
+  xy: 2, 237
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1

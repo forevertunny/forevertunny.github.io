@@ -1,0 +1,223 @@
+
+succubus_level2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 114, 61
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+eye_cry_l
+  rotate: true
+  xy: 246, 241
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+eye_cry_r
+  rotate: false
+  xy: 50, 32
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 172, 9
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 230, 125
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+eye_wink_l
+  rotate: false
+  xy: 230, 139
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+eye_wink_r
+  rotate: true
+  xy: 50, 18
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 69, 164
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 146, 2
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 2, 102
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 130, 162
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 119, 114
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+mouth_cry
+  rotate: false
+  xy: 186, 11
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+suit01/suit01_hair_01
+  rotate: true
+  xy: 172, 22
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+suit01/suit01_hair_02
+  rotate: false
+  xy: 189, 206
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+suit01/suit01_hair_03_l
+  rotate: false
+  xy: 69, 197
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+suit01/suit01_hair_03_r
+  rotate: false
+  xy: 62, 61
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+suit01/suit01_skirt_01
+  rotate: false
+  xy: 119, 123
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+suit01/suit01_skirt_02
+  rotate: true
+  xy: 62, 2
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+suit01/suit01_underwear
+  rotate: true
+  xy: 211, 35
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+suit02/suit02_hair_01
+  rotate: false
+  xy: 186, 114
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+suit02/suit02_hair_02
+  rotate: false
+  xy: 62, 114
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+suit02/suit02_hair_03_l
+  rotate: false
+  xy: 2, 43
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+suit02/suit02_hair_03_r
+  rotate: false
+  xy: 194, 153
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+suit02/suit02_skirt_01
+  rotate: true
+  xy: 147, 66
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+suit02/suit02_skirt_02
+  rotate: true
+  xy: 104, 2
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+suit02/suit02_underwear
+  rotate: false
+  xy: 211, 2
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 170
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+wing_l
+  rotate: true
+  xy: 129, 200
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+wing_r
+  rotate: false
+  xy: 186, 70
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1

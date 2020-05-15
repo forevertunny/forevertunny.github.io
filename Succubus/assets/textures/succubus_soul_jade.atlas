@@ -1,0 +1,104 @@
+
+succubus_soul_jade.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+purple/purple_01
+  rotate: false
+  xy: 75, 75
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+purple/purple_02
+  rotate: false
+  xy: 75, 18
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+purple/purple_03
+  rotate: false
+  xy: 184, 84
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+purple/purple_04
+  rotate: false
+  xy: 203, 99
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+purple/purple_05
+  rotate: true
+  xy: 203, 83
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+purple/purple_06
+  rotate: false
+  xy: 2, 64
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+purple/purple_fire_01
+  rotate: false
+  xy: 167, 75
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
+yellow/yellow_01
+  rotate: false
+  xy: 121, 75
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+yellow/yellow_02
+  rotate: false
+  xy: 110, 18
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+yellow/yellow_03
+  rotate: false
+  xy: 162, 38
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+yellow/yellow_04
+  rotate: true
+  xy: 230, 94
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+yellow/yellow_05
+  rotate: true
+  xy: 75, 2
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+yellow/yellow_06
+  rotate: false
+  xy: 2, 7
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+yellow/yellow_fire_01
+  rotate: false
+  xy: 145, 29
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
