@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <style type="text/css">
+    div {
+      font-family: sans-serif;
+      text-Align: center;
+      justify-content: center;
+      align-items: center;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      position: absolute;
+      /* display: flex;*/
+    }
+  </style>
+</head>
+
+<body>
+  <div id="game">
+    <label>設置期號</label>
+    <label>當期</label>
+    <input id="currissue" value='132' />
+    <label>前期</label>
+    <input id="preissue" value='131' />
+    <button id="setIssue_btn">setIssue</button>
+    <br />
+    <label> 上期獎號:</label>
+    <input id="setPreNum" value='1,2,3' />
+    <!-- <label> 下期開獎時間:</label>
+    <input id="setNextTime" value='12:00:00' />
+    <label> 當期開獎時間:</label>
+    <input id="setCurrentTime" value='12:30:00' /> -->
+    <button id="setPreNum_btn">setPreNum_btn</button>
+    <br />
+    <label>開始倒數:</label>
+    <input id="startCountdown" type="number" value="30" />
+    <button id="startCountdown_btn">startCountdown</button>
+    <br />
+    <label>開獎中:</label>
+    <button id="midGame_btn">midGame</button>
+    <br />
+    <label>開獎結果:</label>
+    <input id="finishGame" value='1,2,3' />
+    <button id="finshGame_btn">finishGame</button>
+    <br />
+    <label>測試隨機開獎結果:</label>
+    <button id="randomFinshTest_btn">randomFinshTest</button>
+    <br />
+    <!-- <label>測試刪除:</label>
+            <button id="removeTest_btn">removeTest</button>
+            <br /> -->
+    <label>測試加載:</label>
+    <button id="addTest_btn">addTest</button>
+  </div>
+<script type="text/javascript" src="bundle.js"></script></body>
+
+</html>
