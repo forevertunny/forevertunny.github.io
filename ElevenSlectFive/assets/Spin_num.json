@@ -1,0 +1,103 @@
+{"frames": {
+
+"spinnum_01.png":
+{
+	"frame": {"x":176,"y":142,"w":40,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":75},
+	"sourceSize": {"w":40,"h":75}
+},
+"spinnum_02.png":
+{
+	"frame": {"x":175,"y":1,"w":45,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":75},
+	"sourceSize": {"w":45,"h":75}
+},
+"spinnum_03.png":
+{
+	"frame": {"x":1,"y":161,"w":44,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":77},
+	"sourceSize": {"w":44,"h":77}
+},
+"spinnum_04.png":
+{
+	"frame": {"x":150,"y":90,"w":50,"h":75},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":75},
+	"sourceSize": {"w":50,"h":75}
+},
+"spinnum_05.png":
+{
+	"frame": {"x":1,"y":80,"w":44,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":79},
+	"sourceSize": {"w":44,"h":79}
+},
+"spinnum_06.png":
+{
+	"frame": {"x":47,"y":80,"w":48,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":77},
+	"sourceSize": {"w":48,"h":77}
+},
+"spinnum_07.png":
+{
+	"frame": {"x":97,"y":169,"w":46,"h":77},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":77},
+	"sourceSize": {"w":46,"h":77}
+},
+"spinnum_08.png":
+{
+	"frame": {"x":97,"y":90,"w":51,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":77},
+	"sourceSize": {"w":51,"h":77}
+},
+"spinnum_09.png":
+{
+	"frame": {"x":47,"y":159,"w":48,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":77},
+	"sourceSize": {"w":48,"h":77}
+},
+"spinnum_10.png":
+{
+	"frame": {"x":1,"y":1,"w":95,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":77},
+	"sourceSize": {"w":95,"h":77}
+},
+"spinnum_11.png":
+{
+	"frame": {"x":98,"y":1,"w":87,"h":75},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":75},
+	"sourceSize": {"w":87,"h":75}
+}},
+"animations": {
+	"spinnum": ["spinnum_01.png","spinnum_02.png","spinnum_03.png","spinnum_04.png","spinnum_05.png","spinnum_06.png","spinnum_07.png","spinnum_08.png","spinnum_09.png","spinnum_10.png","spinnum_11.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Spin_num.png",
+	"format": "RGBA8888",
+	"size": {"w":226,"h":239},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:498021fa766e494c061de177ef111fdd:ade0df7436602b7ecc4d7f658aaa9f3a:d1c6acf38d41c22d7f1d4df7c3a4fe85$"
+}
+}
