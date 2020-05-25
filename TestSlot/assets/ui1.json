@@ -1,0 +1,318 @@
+{
+	"frames": {
+		"UI_.png": {
+			"frame": {
+				"x": 0,
+				"y": 161,
+				"w": 130,
+				"h": 129
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 130,
+				"h": 129
+			},
+			"sourceSize": {
+				"w": 130,
+				"h": 129
+			}
+		},
+		"UI_01.png": {
+			"frame": {
+				"x": 428,
+				"y": 0,
+				"w": 66,
+				"h": 520
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 66,
+				"h": 520
+			},
+			"sourceSize": {
+				"w": 66,
+				"h": 520
+			}
+		},
+		"UI_02.png": {
+			"frame": {
+				"x": 328,
+				"y": 0,
+				"w": 99,
+				"h": 358
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 99,
+				"h": 358
+			},
+			"sourceSize": {
+				"w": 99,
+				"h": 358
+			}
+		},
+		"UI_03.png": {
+			"frame": {
+				"x": 225,
+				"y": 0,
+				"w": 102,
+				"h": 348
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 348
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 348
+			}
+		},
+		"UI_04.png": {
+			"frame": {
+				"x": 161,
+				"y": 0,
+				"w": 5,
+				"h": 160
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 5,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 5,
+				"h": 160
+			}
+		},
+		"UI_05.png": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"UI_06.png": {
+			"frame": {
+				"x": 0,
+				"y": 512,
+				"w": 46,
+				"h": 46
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 46,
+				"h": 46
+			},
+			"sourceSize": {
+				"w": 46,
+				"h": 46
+			}
+		},
+		"UI_07.png": {
+			"frame": {
+				"x": 47,
+				"y": 512,
+				"w": 46,
+				"h": 46
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 46,
+				"h": 46
+			},
+			"sourceSize": {
+				"w": 46,
+				"h": 46
+			}
+		},
+		"UI_08.png": {
+			"frame": {
+				"x": 495,
+				"y": 0,
+				"w": 65,
+				"h": 259
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 65,
+				"h": 259
+			},
+			"sourceSize": {
+				"w": 65,
+				"h": 259
+			}
+		},
+		"UI_10.png": {
+			"frame": {
+				"x": 131,
+				"y": 161,
+				"w": 92,
+				"h": 92
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 92,
+				"h": 92
+			},
+			"sourceSize": {
+				"w": 92,
+				"h": 92
+			}
+		},
+		"UI_11.png": {
+			"frame": {
+				"x": 0,
+				"y": 291,
+				"w": 120,
+				"h": 120
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 120,
+				"h": 120
+			},
+			"sourceSize": {
+				"w": 120,
+				"h": 120
+			}
+		},
+		"UI_12.png": {
+			"frame": {
+				"x": 224,
+				"y": 403,
+				"w": 92,
+				"h": 95
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 92,
+				"h": 95
+			},
+			"sourceSize": {
+				"w": 92,
+				"h": 95
+			}
+		},
+		"UI_13.png": {
+			"frame": {
+				"x": 495,
+				"y": 260,
+				"w": 33,
+				"h": 229
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 33,
+				"h": 229
+			},
+			"sourceSize": {
+				"w": 33,
+				"h": 229
+			}
+		},
+		"UI_14.png": {
+			"frame": {
+				"x": 112,
+				"y": 412,
+				"w": 111,
+				"h": 138
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 111,
+				"h": 138
+			},
+			"sourceSize": {
+				"w": 111,
+				"h": 138
+			}
+		},
+		"UI_15.png": {
+			"frame": {
+				"x": 121,
+				"y": 291,
+				"w": 103,
+				"h": 111
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 103,
+				"h": 111
+			},
+			"sourceSize": {
+				"w": 103,
+				"h": 111
+			}
+		},
+		"UI_16.png": {
+			"frame": {
+				"x": 317,
+				"y": 359,
+				"w": 68,
+				"h": 66
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 66
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 66
+			}
+		},
+		"UI_17.png": {
+			"frame": {
+				"x": 0,
+				"y": 412,
+				"w": 111,
+				"h": 99
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 111,
+				"h": 99
+			},
+			"sourceSize": {
+				"w": 111,
+				"h": 99
+			}
+		}
+	},
+	"meta": {
+		"image": "ui1.png",
+		"size": {
+			"w": 561,
+			"h": 559
+		},
+		"scale": "1"
+	}
+}
