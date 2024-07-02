@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>WebGL with Web Content</title>
+  <style>
+    body { margin: 0; overflow: hidden; }
+    #unity-container { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+    #unity-canvas { width: 100%; height: 100% }
+    #iframe-container { position: absolute; top: 20%; left: 20%; width: 60%; height: 60%; border: none; display: none; }
+  </style>
+</head>
+<body>
+<div id="unity-container">
+  <canvas id="unity-canvas"></canvas>
+</div>
+<iframe id="iframe-container"></iframe>
+<script>
+  var buildUrl = "Build";
+  var loaderUrl = buildUrl + "/TestWebGL.loader.js";
+  var config = {
+    dataUrl: buildUrl + "/TestWebGL.data.gz",
+    frameworkUrl: buildUrl + "/TestWebGL.framework.js.gz",
+    codeUrl: buildUrl + "/TestWebGL.wasm.gz",
+    streamingAssetsUrl: "StreamingAssets",
+    companyName: "DefaultCompany",
+    productName: "TestUniWeb",
+    productVersion: "0.1",
+  };
+
+  var container = document.querySelector("#unity-container");
+  var canvas = document.querySelector("#unity-canvas");
+
+  var script = document.createElement("script");
+  script.src = loaderUrl;
+  script.onload = () => {
+    createUnityInstance(canvas, config, (progress) => {
+      // handle progress
+    }).then((unityInstance) => {
+      window.gameInstance = unityInstance;
+    }).catch((message) => {
+      alert(message);
+    });
+  };
+  document.body.appendChild(script);
+
+  function openIframe(src) {
+    var iframe = document.getElementById('iframe-container');
+    iframe.src = src;
+    iframe.style.display = 'block';
+  }
+
+  window.addEventListener('message', function(event) {
+    var message = event.data;
+    if (message.type === 'openIframe') {
+      openIframe(message.src);
+    }
+  });
+</script>
+</body>
+</html>
