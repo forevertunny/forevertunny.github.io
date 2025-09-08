@@ -5,27 +5,31 @@
   <title>WebGL with Web Content</title>
   <style>
     body { margin: 0; overflow: hidden; }
-    #unity-container { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-    #unity-canvas { width: 100%; height: 100% }
-    #iframe-container { position: absolute; top: 20%; left: 20%; width: 60%; height: 60%; border: none; display: none; }
+    #unity-container { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+    #unity-canvas { width: 100%; height: 100%;}
+    #iframe-container { position: absolute; top: 20%; left: 0; width: 100%; height: 100%; border: none; display: none;}
+    #test-container2 { position: absolute; top: 20%; left: 0; width: 100%; height: 100%; border: none; display: none;}
   </style>
 </head>
 <body>
 <div id="unity-container">
   <canvas id="unity-canvas"></canvas>
 </div>
+<div id="test-container">
 <iframe id="iframe-container"></iframe>
+</div >
+<div id="test-container2"></div>
 <script>
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/Test.loader.js";
+  var loaderUrl = buildUrl + "/Build.loader.js";
   var config = {
-    dataUrl: buildUrl + "/Test.data.unityweb",
-    frameworkUrl: buildUrl + "/Test.framework.js.unityweb",
-    codeUrl: buildUrl + "/Test.wasm.unityweb",
+    dataUrl: buildUrl + "/Build.data.unityweb",
+    frameworkUrl: buildUrl + "/Build.framework.js.unityweb",
+    codeUrl: buildUrl + "/Build.wasm.unityweb",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
-    productName: "brp",
-    productVersion: "1.0",
+    productName: "TestUniWeb",
+    productVersion: "0.1",
   };
 
   var container = document.querySelector("#unity-container");
@@ -43,11 +47,43 @@
     });
   };
   document.body.appendChild(script);
-
+  
+  function createButton(base64Image, width,height) {
+    console.log(`isaac createButton  ${width} ${height}`);
+    var button = document.createElement('button');
+    button.className = 'dynamic-button'; // 设置按钮样式类
+    // button.style.position = 'absolute';
+    button.style.width = (width) + "px";
+    button.style.height = (height) + "px";
+    button.style.background = 'url(' + base64Image + ')';
+    // button.style.zIndex =50;
+    button.style.top = '50px';  // 你可以根据需要调整位置
+    button.style.left = '50px';  // 你可以根据需要调整位置
+    button.onclick = function() {
+      console.log('button clicked');
+    };
+    
+    var container = document.getElementById('test-container2');
+    container.style.display = 'block';
+    container.style.width = button.style.width;
+    container.style.height = button.style.height;
+    container.appendChild(button);
+  }
   function openIframe(src) {
+    //Open Game And Create Icons
     var iframe = document.getElementById('iframe-container');
     iframe.src = src;
     iframe.style.display = 'block';
+  }
+
+  function setIframeZIndex(zIndex) {
+    var iframe = document.getElementById('iframe-container');
+    iframe.style.zIndex = zIndex;
+  }
+
+  // 在 WebGL 頁面中執行
+  function checkMobilePlatform() {
+    return /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
   }
 
   window.addEventListener('message', function(event) {
@@ -57,5 +93,6 @@
     }
   });
 </script>
+<script src="Build/myCustomScript.js"></script>
 </body>
 </html>
