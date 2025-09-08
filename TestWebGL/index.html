@@ -88,9 +88,29 @@
 
   window.addEventListener('message', function(event) {
     var message = event.data;
-    if (message.type === 'openIframe') {
-      openIframe(message.src);
-    }
+		
+	 const message = event.data;
+        if (!message || !message.type) {
+            return;
+        }
+
+console.log(`unity message ${message}`);
+	
+	 let eventName = '';
+        switch(message.type) {
+            case 'touch-start':
+            case 'touch-move':
+				window.gameInstance.SendMessage('HtmlInputReceiver', 'OnHtmlMouseEvent', JSON.stringify(message));
+                break;
+				case 'openIframe':
+				openIframe(message.src);
+				break
+            default:
+                // 如果不是我們關心的事件類型，則忽略
+                return;
+        }
+
+        console.log('Bottom/index.html: 收到轉發的訊息', message);
   });
 </script>
 <script src="Build/myCustomScript.js"></script>
